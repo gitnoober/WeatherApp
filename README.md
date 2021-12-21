@@ -1,7 +1,7 @@
 # Weatherapp
   <ul>
-    <li> Uses OpenWeatherMap API
-    <li> Can view weather of multiple cities at once
+    <li> Uses OpenWeatherMap API.
+    <li> Can view weather of multiple cities at once.
     <li> Can update the cities.
   </ul>
 <hr>
